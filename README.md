@@ -1,7 +1,7 @@
 # Ganiyat's Data Science Portfolio
 ### gkdatawebpage.github.io
 
-Welcome to my professional portfolio website — a curated showcase of my work and expertise in **Data Science**, **Machine Learning**, **Data Analysis**, and **Business Intelligence**.
+Welcome to my professional portfolio website — A curated showcase of my work and expertise in **Data Science**, **Machine Learning**, **Data Analysis**, and **Business Intelligence**.
 
 ---
 
@@ -33,19 +33,19 @@ As a results-driven Data Scientist and Engineer with a solid foundation in **Inf
 
 ##  Featured Projects
 
-###  [Road Accident Analysis Dashboard](https://github.com/ganeeyat80/gkdatawebpage.github.io/road-accident-analysis)
+###  [Road Accident Analysis Dashboard](https://github.com/ganeeyat80/gkdatawebpage.github.io)
 **Power BI + Statistical Analysis**  
 Analyzed the impact of weather, speed limits, and road conditions on accident severity. Delivered actionable insights and policy recommendations using interactive dashboards.
 
-###  [Sales Performance Insight Tool](https://github.com/ganeeyat80/gkdatawebpage.github.io/sales-dashboard)
+###  [Sales Performance Insight Tool](https://github.com/ganeeyat80/gkdatawebpage.github.io)
 **Excel + Tableau**  
 Built a comprehensive sales performance dashboard, enabling dynamic filtering, region-specific KPIs, and executive-ready summaries.
 
-###  [Customer Churn Prediction](https://github.com/ganeeyat80/gkdatawebpage.github.io/customer-churn-ml)
+###  [Customer Churn Prediction](https://github.com/ganeeyat80/gkdatawebpage.github.io)
 **Python + Scikit-learn + Streamlit**  
 Developed a machine learning pipeline to predict churn probability and deployed the model in a web app to assist marketing and retention strategies.
 
-###  [Retail Market Basket Analysis](https://github.com/ganeeyat80/gkdatawebpage.github.io/market-basket-analysis)
+###  [Retail Market Basket Analysis](https://github.com/ganeeyat80/gkdatawebpage.github.io)
 **Apriori + Association Rules**  
 Uncovered buying patterns using association rule mining and visualized relationships between products to guide strategic placement and bundling.
 
