@@ -74,7 +74,7 @@ Explore more at: **[ganiyat.github.io](https://github.com/ganeeyat80/gkdatawebpa
 
 Feel free to reach out for collaborations, freelancing, or hiring opportunities:
 
--  Email: [ganiyatkareem1980@gmail.com]
+-  Email: (ganiyatkareem1980@gmail.com)
 -  LinkedIn: [linkedin.com/in/ganiyatkareem](https://www.linkedin.com/in/ganiyat-kareem)
 -  GitHub: [github.com/ganeeyat80](https://github.com/ganeeyat80/gkdatawebpage.github.io)
 
