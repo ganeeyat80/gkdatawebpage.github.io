@@ -33,19 +33,19 @@ As a results-driven Data Scientist and Engineer with a solid foundation in **Inf
 
 ##  Featured Projects
 
-###  [Road Accident Analysis Dashboard](https://github.com/ganeeyat80/gkdatawebpage.github.io)
+###  [Road Accident Analysis Dashboard](https://ganeeyat80.github.io/gkdatawebpage.github.io/)
 **Power BI + Statistical Analysis**  
 Analyzed the impact of weather, speed limits, and road conditions on accident severity. Delivered actionable insights and policy recommendations using interactive dashboards.
 
-###  [Sales Performance Insight Tool](https://github.com/ganeeyat80/gkdatawebpage.github.io)
+###  [Sales Performance Insight Tool](https://ganeeyat80.github.io/gkdatawebpage.github.io/)
 **Excel + Tableau**  
 Built a comprehensive sales performance dashboard, enabling dynamic filtering, region-specific KPIs, and executive-ready summaries.
 
-###  [Customer Churn Prediction](https://github.com/ganeeyat80/gkdatawebpage.github.io)
+###  [Customer Churn Prediction](https://ganeeyat80.github.io/gkdatawebpage.github.io/)
 **Python + Scikit-learn + Streamlit**  
 Developed a machine learning pipeline to predict churn probability and deployed the model in a web app to assist marketing and retention strategies.
 
-###  [Retail Market Basket Analysis](https://github.com/ganeeyat80/gkdatawebpage.github.io)
+###  [Retail Market Basket Analysis](https://ganeeyat80.github.io/gkdatawebpage.github.io/)
 **Apriori + Association Rules**  
 Uncovered buying patterns using association rule mining and visualized relationships between products to guide strategic placement and bundling.
 
