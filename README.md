@@ -53,7 +53,7 @@ Uncovered buying patterns using association rule mining and visualized relations
 
 ##  Live Portfolio Website
 
-Explore more at: **[ganiyat.github.io](https://github.com/ganeeyat80/gkdatawebpage.github.io)**  
+Explore more at: **[ganiyat.github.io](https://github.com/ganeeyat80?tab=repositories)**  
 - Mobile-optimized  
 - Project links & visuals  
 - Resume download  
