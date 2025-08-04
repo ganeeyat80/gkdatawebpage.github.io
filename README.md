@@ -45,7 +45,7 @@ Built a comprehensive sales performance dashboard, enabling dynamic filtering, r
 **Python + Scikit-learn + Streamlit**  
 Developed a machine learning pipeline to predict churn probability and deployed the model in a web app to assist marketing and retention strategies.
 
-###  [Improving Sales Performance-Retail Market Basket Analysis](https://ganeeyat80.github.io/gkdatawebpage.github.io/)
+###  [Improving Sales Performance-Retail Tech Superstore Sales Analysis](https://ganeeyat80.github.io/gkdatawebpage.github.io/)
 **Apriori + Association Rules**  
 Uncovered buying patterns using association rule mining and visualized relationships between products to guide strategic placement and bundling.
 
